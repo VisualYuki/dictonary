@@ -1,0 +1,29 @@
+[
+  {
+    "word": "as",
+    "translations": [
+      {
+        "speech-part": "conjunction",
+        "specific-word": "as",
+        "translation": "в то время как, пока",
+        "short": "while",
+        "description": "during the time that",
+        "examples": [
+          "I saw him as I was coming into the building.",
+          "He gets more attractive as he gets older."
+        ]
+      },
+      {
+        "speech-part": "phrase",
+        "specific-word": "as well (as)",
+        "translation": "в дополнение (к), а также",
+        "short": "",
+        "description": "in addition (to)",
+        "examples": [
+          "I want to visit Andrew as well as Martin.",
+          "Do you want potatoes as well as rice, or instead of rice?"
+        ]
+      }
+    ]
+  }
+]
